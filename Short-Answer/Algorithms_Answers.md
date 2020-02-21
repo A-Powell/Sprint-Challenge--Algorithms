@@ -6,6 +6,7 @@ a) Linear O(n), As the size of the input increases, the runtime or space used wi
 
 
 b) O(n2), Nested loop, it gets multiplied by itself.
+---Correct answer - O(n log(n))---
 
 
 c) O(n) - recursion, will keep running but we don't know how many times.
